@@ -9,7 +9,7 @@ The system leverages **sportsbook betting odds** and player prop lines, converts
 ## Live Demo
 
 You can access the deployed app here:  
-[Launch FantasyLine App]([https://<your-username>-fantasyline.streamlit.app](https://fantasyline.streamlit.app/))
+[Launch FantasyLine App]([https://<nickhazzard13>-fantasyline.streamlit.app](https://fantasyline.streamlit.app/))
 
 ---
 
